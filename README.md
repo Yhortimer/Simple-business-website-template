@@ -6,4 +6,4 @@ Project tech stack:
 
 1. HTML;
 2. CSS (SASS);
-3. JacaScript.
+3. JavaScript.
